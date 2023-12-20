@@ -15,3 +15,4 @@ Cargo.lock
 
 # Generated key and certificate files
 *.pem
+*.der
